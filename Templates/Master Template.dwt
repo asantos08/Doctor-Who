@@ -23,7 +23,7 @@
 </table>
 <table width="1000">
   <tr>
-    <td>[secondary nav. here]</td>
+    <td><!-- TemplateBeginEditable name="Secondary Content" -->[secondary nav. here]<!-- TemplateEndEditable --></td>
     <td><!-- TemplateBeginEditable name="Master Content" -->[content here]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
