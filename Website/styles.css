@@ -1,5 +1,8 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
+	line-height: 2.5em;
+	font-size: 16px;
+	color: #333;
 }
 .insertimage {
 	float: left;
@@ -10,4 +13,41 @@ body {
 	margin-right: 50px;
 	margin-bottom: 25px;
 	margin-left: 0px;
+}
+.secondary-nav {
+	vertical-align: top;
+	width: 30%;
+	background-color: #FFC;
+}
+.content-area {
+	padding-left: 50px;
+	background-color: #6FF;
+}
+td {
+	padding: 0px;
+}
+.buttons {
+	width: 25%;
+	background-color: #CCC;
+	text-align: center;
+}
+.home-button {
+	padding: 0px;
+	width: 0%;
+	border: thin double #000;
+}
+.doctor-button {
+	padding: 0px;
+	width: 25%;
+	border: thin double #000;
+}
+.companion-button {
+	padding: 0px;
+	width: 25%;
+	border: thin double #000;
+}
+.villain-button {
+	padding: 0px;
+	width: 25%;
+	border: thin double #000;
 }
