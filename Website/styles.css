@@ -51,3 +51,6 @@ td {
 	width: 25%;
 	border: thin double #000;
 }
+.page-style {
+	border: thick double #000;
+}
