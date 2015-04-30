@@ -33,28 +33,36 @@ td {
 	width: 25%;
 	background-color: #CCC;
 	text-align: center;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
 }
 .home-button {
 	padding: 0px;
 	width: 25%;
-	border: thin double #000;
+	border: thick ridge #FC9;
 	margin: 25%;
 }
 .doctor-button {
 	padding: 0px;
 	width: 25%;
-	border: thin double #000;
+	border: thick ridge #FC9;
 	margin: 25%;
 }
 .companion-button {
 	padding: 0px;
 	width: 25%;
-	border: thin double #000;
+	border: thick ridge #FC9;
 	margin: 25%;
 }
 .villain-button {
 	padding: 0px;
 	width: 25%;
-	border: thin double #000;
+	border: thick ridge #FC9;
 	margin: 25%;
 }
