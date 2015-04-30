@@ -18,13 +18,16 @@ body {
 	vertical-align: top;
 	width: 30%;
 	background-color: #FFC;
+	border: 10px ridge #FC9;
 }
 .content-area {
 	padding-left: 50px;
 	background-color: #6FF;
+	border: 10px ridge #FC9;
 }
 td {
 	padding: 0px;
+	margin: 25%;
 }
 .buttons {
 	width: 25%;
@@ -33,24 +36,25 @@ td {
 }
 .home-button {
 	padding: 0px;
-	width: 0%;
+	width: 25%;
 	border: thin double #000;
+	margin: 25%;
 }
 .doctor-button {
 	padding: 0px;
 	width: 25%;
 	border: thin double #000;
+	margin: 25%;
 }
 .companion-button {
 	padding: 0px;
 	width: 25%;
 	border: thin double #000;
+	margin: 25%;
 }
 .villain-button {
 	padding: 0px;
 	width: 25%;
 	border: thin double #000;
-}
-.page-style {
-	border: thick double #000;
+	margin: 25%;
 }
